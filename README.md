@@ -7,7 +7,7 @@ I consider myself as a person hungry for knowledge, always looking to be a bette
 
 - 🌱 I’m currently better my understanding of JavaScript, React and TypeScript
 - 🥅 My main 2021 goal: To be a great UX Engineer!
-- ⚡ Fun fact: I love to do graphic design and letter brushing
+- ⚡ Fun fact: I type using the Colemak keyboard layout! I enjoy doing creative things in my freetime.
 
 ### 🛠 &nbsp;Tech Stack ###
 
@@ -20,8 +20,8 @@ Front-End Technical Skills<br />
 ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS&logoColor=1572B6)&nbsp;
 ![lQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery&logoColor=1572B6)&nbsp;<br /><br />
 Back-End Technical Skills<br />
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)<br /><br />
 Design Skills<br />
